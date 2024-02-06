@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bipana212
-- 👀 I’m interested in hacking
+- 👀 I’m interested in game devloping
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game coding
 - 📫 How to reach me bipanareg212@gmail.com
